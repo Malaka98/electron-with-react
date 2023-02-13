@@ -1,0 +1,22 @@
+{
+  "name": "electron-with-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malaka98/electron-with-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Malaka98/electron-with-react/issues"
+  },
+  "homepage": "https://github.com/Malaka98/electron-with-react#readme",
+  "devDependencies": {
+    "electron": "^23.0.0"
+  }
+}
